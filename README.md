@@ -27,4 +27,4 @@ I use this profile to share my studies, projects and experiments while I'm learn
 - I enjoy playing video games
 - I like basketball
 - I have four cats
-- Always learning something new
+- Hobbies: films, gym, study things
