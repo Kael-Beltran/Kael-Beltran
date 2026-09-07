@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**Kael-Beltran/Kael-Beltran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Development student from Brazil 🇧🇷
 
-Here are some ideas to get you started:
+I'm currently studying Systems Development at SENAI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy creating projects, learning new technologies, and improving my programming skills.
+
+ My current tech stack includes HTML, CSS, Python and SQL.
+
+I'm currently focused on Full-Stack Development and expanding my knowledge in software development.
+
+## Technologies I'm learning
+
+- Python
+- HTML
+- CSS
+- Full-Stack Development
+- Databases
+
+## Projects
+
+I use this profile to share my studies, projects and experiments while I'm learning to become a better developer.
+
+## Fun Facts
+
+- I enjoy playing video games
+- I like basketball
+- I have four cats
+- Always learning something new
