@@ -1,5 +1,3 @@
-# Hey there! 👋
-
 I'm a Systems Development student from Brazil 🇧🇷
 
 I'm currently studying Systems Development at SENAI.
@@ -22,9 +20,4 @@ I'm currently focused on Full-Stack Development and expanding my knowledge in so
 
 I use this profile to share my studies, projects and experiments while I'm learning to become a better developer.
 
-## Fun Facts
-
-- I enjoy playing video games
-- I like basketball
-- I have four cats
-- Hobbies: films, gym, study things
+🧰 Languages and Tools
